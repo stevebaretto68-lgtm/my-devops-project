@@ -114,7 +114,8 @@ git push origin main
 
 ## 📸 Screenshots
 
-<!-- Add your screenshots here -->
+![Pipeline](screenshots/pipline.png)
+![App Live](screenshots/app-live.png)
 
 ## 👨‍💻 Author
 Steve Baretto
